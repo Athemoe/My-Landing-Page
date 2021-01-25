@@ -7,7 +7,7 @@
 	"backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
 	"icons": [
 		{
-			"image": "fa-envelope",
+			"image": "fa fa-envelope",
 			"url": "mailto:info@athe.moe"
 		},
 		{
@@ -20,7 +20,7 @@
 		},
 		{
 			"image": "fa-instagram",
-			"url": "https://www.instagram.com/singh_kshitij/"
+			"url": "https://www.forbes.com/sites/amitchowdhry/2017/05/31/instagram-depression/?sh=415cb4287453"
 		},
 		{
 			"image": "fa-stack-overflow",
