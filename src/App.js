@@ -88,7 +88,7 @@ class App extends Component {
     } else {
       return {
         background:
-          'linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB)',
+          'linear-gradient(-45deg, #EE7752, #7951a9, #23A6D5, #23D5AB)',
         backgroundSize: '400% 400%'
       };
     }
