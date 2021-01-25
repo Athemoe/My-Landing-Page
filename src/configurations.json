@@ -7,24 +7,20 @@
 	"backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
 	"icons": [
 		{
-			"image": "fa fa-envelope",
-			"url": "mailto:info@athe.moe"
+			"image": "fa fa-rebel",
+			"url": "https://cdn.athe.moe/leia.jpg"
 		},
 		{
 			"image": "fa-github",
 			"url": "https://github.com/Athemoe"
 		},
 		{
-			"image": "fa-twitter",
-			"url": "https://twitter.com/JordyCodes"
+			"image": "fa fa-envelope",
+			"url": "mailto:info@athe.moe"
 		},
 		{
 			"image": "fa-instagram",
 			"url": "https://www.forbes.com/sites/amitchowdhry/2017/05/31/instagram-depression/?sh=415cb4287453"
-		},
-		{
-			"image": "fa-stack-overflow",
-			"url": "https://stackoverflow.com/users/15073530/athemoe"
 		},
 		{
 			"image": "fa-snapchat",
